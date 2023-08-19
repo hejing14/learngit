@@ -1,3 +1,3 @@
 ## Learn git
 
-![Git Flow](../gitflow.png)
+![Git Flow](./gitflow.png)
