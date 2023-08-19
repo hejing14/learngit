@@ -8,4 +8,5 @@ Learn git ang github
 
 3. git branch aa; git checkout aa
 
-4. git 
+4. git merge temp
+5. 
